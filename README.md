@@ -36,6 +36,7 @@ Esse dataset consiste em duas tabelas com as informações dos clientes e dos ca
 ## Dashboard
 O dashboard pode ser achado no Power BI Web neste [link](https://app.powerbi.com/view?r=eyJrIjoiZTNmMmJkNGQtMWZjYi00NjNiLThmOGUtMTgxOWY4ZTg4MDJhIiwidCI6ImQwYzY5OGQ0LWU0ZWEtNGVlOS1hNzlkLWYyZDdhNzgzOTljOCJ9). O dashboard permite usuários de filtrar, analisar tendencias, valores e métricas nos dados apresentados.
 
-<img width="850" alt="image" src="https://github.com/user-attachments/assets/9f10eae7-8e09-45d8-ba36-be56f477bf29">
+<img width="850" alt="image" src="https://github.com/user-attachments/assets/04a41ef5-89b0-4ea2-a962-bb27a05ef2c6">
+
 
 
